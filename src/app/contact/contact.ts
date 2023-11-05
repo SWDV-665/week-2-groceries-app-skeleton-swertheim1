@@ -9,6 +9,6 @@ import { ExploreContainerComponent } from '../explore-container/explore-containe
   standalone: true,
   imports: [IonHeader, IonToolbar, IonTitle, IonContent, ExploreContainerComponent],
 })
-export class Tab3Page {
+export class Contact {
   constructor() {}
 }
